@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">shorttermforecast</string>
+    <string name="title_activity_main">shorttermforecast</string>
+    <string name="package_name">ionic.shorttermforecast</string>
+    <string name="custom_url_scheme">ionic.shorttermforecast</string>
+</resources>
